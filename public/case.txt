@@ -1,0 +1,10 @@
+Test Case 1: "Accurate count"
+    -This test will determine if the count for "Wins" and "Losses"
+    is accurate after duel outcome.
+
+Steps:
+    1.Make sure Nodemon is running.
+    2.Verify App is running and responsive in browser of local machine.
+    3.Play game multiple times, making sure you "lose" at least
+    five times, and "Win" at least five times. 
+    

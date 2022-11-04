@@ -1,0 +1,34 @@
+Bug Report for "Test Case 1":
+Date of Test: November 4 2022.
+
+Description:
+App does NOT generate accurate score count.
+
+
+Initial Test Results:
+    After both winning and losing at least 5 times, I was able
+    to confidentaly conclude that "Wins" to "Losses"
+    count is NOT accurate. All scores appear to go to the "losses" counter. 
+
+
+Expected Test Results:
+    Counter keeps accurate count of both "Winner" and "Loser"
+    after a Duel.
+
+
+Steps to Reproduce Results:
+    1.Make sure Nodemon is running.
+    
+    2.Verify App is running and responsive in browser of local machine.
+    
+    3.Play game multiple times, making sure you "lose" at least
+    five times, and "Win" at least five times.
+    
+    4.Make sure to keep INDEPENDENT and ACCURATE score of "Wins" vs. "Losses", 
+    which can later be used to compare with the score count that the App has generated.
+
+
+Test Environment:
+    Chrome Version 107.0.5304.88 (Official Build) (64-bit)
+    Windows 10
+    Machine: Acer "Aspire 3" laptop.

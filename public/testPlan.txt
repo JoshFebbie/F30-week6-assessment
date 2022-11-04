@@ -1,0 +1,20 @@
+Test plan for App-
+
+Overview:
+-Test for overall functionality and proper user experience.
+
+Links:
+-localhost:3000
+
+Test Criteria:
+    -Make sure that "Wins" and "Losses" have an accurate count.
+    -Make sure the user has the ability to choose a "Bot", on "click".
+    -Make sure user is able to "Duel".
+
+Entry Criteria:
+    -Nodemon is running on correct PORT.
+    -App can be displayed on localhost.
+
+Exit Criteria:
+    -All test cases must be able to both run, and pass
+    for reassurance that App has proper functionality.
